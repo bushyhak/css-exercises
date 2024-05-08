@@ -10,7 +10,7 @@ It isn't entirely important which class or ID values you use, as the focus here 
 * **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
 * **The fourth element**: a light green background, a font size of 24px, and bold
 
-Quick tip: in VS Code, you can change which format colors are displayed in RGB, HEX, or HSL by hovering over the color value in the CSS and clicking the top of the popup that appears!
+Quick tip: in VS Code, you can change which format colors are displayed in RGB, HEX, or HSL by hovering over the color value in the CSS and clicking the top of the popup that appea Sanrs!
 
 > ### Note:
 > Part of your task is to add a font to _some_ of these items. Your browser's font's might be different than the one displayed in the desired outcome image. As long as you confirm that the fonts _are_ being applied to the right lines any differences are okay for this exercise.
